@@ -4,7 +4,8 @@
 
 The third course of this specialization is about Classification
 
-Through this course, you will become familiar with the fundamental models and algorithms used in classification, as well as a number of core machine learning concepts.## What's inside
+Through this course, you will become familiar with the fundamental models and algorithms used in classification, as well as a number of core machine learning concepts.
+## What's inside
 
 - Week 1 - Linear Classifiers and Logistic Regression
 
@@ -13,7 +14,7 @@ Through this course, you will become familiar with the fundamental models and al
 
 - Week 3 - Decision Trees
 
-- Week 4 - Preventing Overfitting in Decision Trees\
+- Week 4 - Preventing Overfitting in Decision Trees,\
          - Handling Missing Data
 
 - Week 5 - Boosting
