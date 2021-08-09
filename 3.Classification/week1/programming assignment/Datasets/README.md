@@ -1,0 +1,8 @@
+
+# Amazon Baby Datasets
+
+Click the follwing links to download the dataset
+## 🔗 Links
+- [amazon_baby.sframe](https://d18ky98rnyall9.cloudfront.net/z2MqguI0Eemm5A4ynZyB2A_fb01f0fbfc2b4701913139e2e54281af_amazon_baby.sframe.zip?Expires=1628640000&Signature=Pis8ZP6P-olrs1hNTUXoJzTjTO6hzIovJVyPxW-zioavhPJP4MRQJkJuxWvMg~-8Od0f1hObI6CIESTu-UlSb1lv~9U1hs6yk8U7yDoNRfCuSbHbfgMYpo~5w0G-D8Lb126TkgofmOikg-0sExfRYLD7uOBRUNo7u3IplY5ff7E_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [amazon_baby.gl](https://d18ky98rnyall9.cloudfront.net/_35bdebdff61378878ea2247780005e52_amazon_baby.gl.zip?Expires=1628640000&Signature=B1J9zcltCcm1ePOKpDg8w4IolpvMnR4zllMlzfyAP2xNOltJohju4etUdV1sGuzFRbDR2HDdImIJXySNcg8yc9lApue9~0rfq2wqHq3xITmc10DNu6yC8Q9QbAA3weZse-BVl3qE-LuI-rXtnrxcohxtCml2TZCopopC8GaCl9U_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [amazon_baby.csv](https://d18ky98rnyall9.cloudfront.net/_596922c59a7068d4eb7baa104c01a685_amazon_baby.csv.zip?Expires=1628640000&Signature=MgdSFJW67o9C-HrpqCrvUEm3VxvSgAZUOKpJfVH~nOWhmpc6To0ZePZPO9eECJhyLB48gdTUkILfn4r16rCOqt~TknGKjctzxCEAIH6BTm9~~GvBIqGIOo0a9OpR2OEIkF~AnhiN93sWoT2yYl3vyUoUAwoMsqWAeTEK4w7hptA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
