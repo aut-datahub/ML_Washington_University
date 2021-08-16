@@ -1,0 +1,11 @@
+
+# Lending Club Datasets
+
+Click the follwing links to download the dataset
+
+## 🔗 Links
+- [lending-club-data.sframe](https://d18ky98rnyall9.cloudfront.net/KVugjOI3Eemx8A5HK6Ls8g_4ae1e7ce863a4049b4ab5da425c6bd7a_lending-club-data.sframe.zip?Expires=1628899200&Signature=Lbrh~FwKvdEwYtrRw6WbJCkvLUJkyL59vyWngFJhFNa5ZSBXYna9aLvvodl0oo6RjdMA7UfzogtcKu4AEuPP3iYKCqB9L3zysafR0umySe3ZYdt4GF0oZLmhL2j6lXAfaLQKjJXuyIKw7DhcnicE6UZpuyTmVZpNJKu0DrGV0Ls_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [lending-club-data.gl](https://d18ky98rnyall9.cloudfront.net/_35bdebdff61378878ea2247780005e52_lending-club-data.gl.zip?Expires=1628899200&Signature=k9IqYr7EGhORk4mj4QaCC02umiNR2tk-nwJIrPwneRi5Vf8rKWsU46yis2ySjFuyxGH7sJEfRvGj7Wn3K4yeNxaV1~KrL5G9MnXC2qVTEBjfwX~yCgoteyAzGcVj5DTvx11eibj5lbtqer4cmDBborOdyvLc9~5O02Fiypge5ag_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [lending-club-data.csv](https://d18ky98rnyall9.cloudfront.net/_c18ade74fb45f307917ac9c670944b84_lending-club-data.csv.zip?Expires=1628899200&Signature=OtyPhN6UXUTsag0--QmVI1Q8G88HT2vbdBDWlr3gDw2nHQKFW9BYW2CUrsKDfo2S2x16qXJSnYwicU45z2ksRWnVPVBLTjxOPH0C2sDPvSorZ4wH0ARVrbDsLHRMafhZi-qFmMI8oo~~of4CbCIotMfUFQQ62HiJemA2WpHr2z8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [module-5-assignment-2-train-idx.json](https://d18ky98rnyall9.cloudfront.net/_1ccb9ec834e6f4b9afb46f4f5ab56402_module-5-assignment-2-train-idx.json.zip?Expires=1628899200&Signature=i5QHNmDh31TIhE-bcuznSACHUU3vjxbeStQNd21R9x33lXvopxkoHP1-IMyR6GodYRiGcdkMyreW1ZVmC79tWcqp~XJkcALZjvV3uNFecAxUJOgXOmk1j5xNlZ~mreWwT24v5lA3og~xBFU0ULM40hOj2BM76PIBkcprNfJAkEc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+- [module-5-assignment-2-test-idx.json](https://d18ky98rnyall9.cloudfront.net/_1ccb9ec834e6f4b9afb46f4f5ab56402_module-5-assignment-2-test-idx.json.zip?Expires=1628899200&Signature=d9uJnM3iU2GpUMKLpWzbn-1ZjSL1PXjqxDpIOwHUFE903pHQ0aWkxxJOlWu9JATq3BuPaZGu64EtVBoQnSXkBWbupJAze9Pl7qWULtmN7DNzGjBrcvm-T9g0hQPjvmN~gfWb0l22lI~Sj~Pqi34ju9IY5AkoluUGAAEzedE5eCs_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
