@@ -2,13 +2,13 @@
 Machine Learning Specialization Offered By the University Of Washington at [Coursera](https://www.coursera.org/specializations/machine-learning)
 
 All the slides, programming assignments and datasets can be found in the table below
-
-| Course Title  | Link To My Repo |
-| :------------ |:---------------:|
-| &#9744; Foundations                            |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/1.Foundations) |
-| &#9745; Regression                             |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/2.Regression)|
-| &#9745; Classification                         |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/3.Classification)|
-| &#9744; Clustering & Retrieval                 |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/4.Clustering%20%26%20Retrieval)|
+## Content
+| Course Title  | 🔗 My Repository |
+| ------------ |:---------------:|
+| 1. Foundations                            |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/1.Foundations) |
+| 2. Regression                             |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/2.Regression)|
+| 3. Classification                         |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/3.Classification)|
+| 4. Clustering & Retrieval                 |[More Info & Resources](https://github.com/aut-datahub/ML_Washington_University/tree/main/4.Clustering%20%26%20Retrieval)|
 
 ## Machine Learning Foundations: A Case Study Approach
 - Regression: Predicting House Prices
@@ -46,5 +46,5 @@ All the slides, programming assignments and datasets can be found in the table b
 - Clustering with k-means
 - Mixture Models
 - Latent Dirichlet Allocations
-- Hierarchical Clustering and Closing Remarks
+- Hierarchical Clustering
 - 🔗 [Coursera](https://www.coursera.org/learn/ml-clustering-and-retrieval)
